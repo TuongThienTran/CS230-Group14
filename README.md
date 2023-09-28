@@ -1,1 +1,2 @@
-# CS230-Group4
+# MedConnect
+## CS230-Group4
